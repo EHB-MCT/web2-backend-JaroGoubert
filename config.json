@@ -1,0 +1,8 @@
+{
+    "baseUrl": "mongodb+srv://admin:<password>@cluster0.hbq5vve.mongodb.net/?retryWrites=true&w=majority",
+    "username": "admin",
+    "pw": "admin",
+    "db": "werkstuk",
+    "collection": "games",
+    "finalUrl": "mongodb+srv://admin:admin@cluster0.hbq5vve.mongodb.net/?retryWrites=true&w=majority"
+}
